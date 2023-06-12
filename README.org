@@ -1,0 +1,10 @@
+* dbus
+
+A D-BUS client library for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/death/dbus.git   |
+| commit  | f4d1a99  |
+| systems | dbus |
+|---------+-------------------------------------------|
+
