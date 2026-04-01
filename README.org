@@ -7,3 +7,4 @@ A D-BUS client library for Common Lisp
 | commit  | 8bba6a0                               |
 | systems | dbus                                  |
 |---------+---------------------------------------|
+ 
